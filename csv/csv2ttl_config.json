@@ -1,13 +1,13 @@
 {
-    "id": "2004Mathematik",
+    "id": "2004DeESA",
     "title": [
       {
         "lang": "de",
-        "value": "Bildungsstandards Mathematik Primar 2004"
+        "value": "Bildungsstandards Deutsch ESA 2004"
       }
     ],
     "csv_delimiter": ",",
-    "base": "https://w3id.org/iqb/v09",
+    "base": "https://w3id.org/iqb/v30",
     "outDir": "./",
     "creator": "IQB - Institut zur Qualitätsentwicklung im Bildungswesen",
     "vocabularies": [
@@ -33,7 +33,7 @@
         "title": [
           {
             "lang": "de",
-            "value": "Fachspezifische Beschreibung der Anforderungsbereiche"
+            "value": "Anforderungsbereiche"
           }
         ],
         "filenameSource": "n1_Anforderungsbereiche.csv",
@@ -41,7 +41,7 @@
         "description": [
           {
             "lang": "de",
-            "value": "\"\"\"\""
+            "value": "Die folgenden drei Anforderungsbereiche lassen sich unterscheiden und beschreiben:"
           }
         ]
       }

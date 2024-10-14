@@ -1,7 +1,7 @@
 {
   "name": "v30",
   "version": "0.1.0",
-  "description": "Bildungsstandards im Deutsch ESA 2004",
+  "description": "Bildungsstandards Deutsch HSA 2004",
   "main": "index.js",
   "scripts": {
     "run_id": "addidcsv csv",

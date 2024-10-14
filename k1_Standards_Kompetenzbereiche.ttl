@@ -1037,9 +1037,9 @@ n1:e4t
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
-	dct:title "Bildungsstandards Deutsch ESA 2004 - Standards für die Kompetenzbereiche im Fach Deutsch"@de;
-	dc:title "Bildungsstandards Deutsch ESA 2004 - Standards für die Kompetenzbereiche im Fach Deutsch"@de;
-	dc:description "Bildungsstandards Deutsch ESA 2004 - Standards für die Kompetenzbereiche im Fach Deutsch"@de;
+	dct:title "Bildungsstandards Deutsch HSA 2004 - Standards für die Kompetenzbereiche im Fach Deutsch"@de;
+	dc:title "Bildungsstandards Deutsch HSA 2004 - Standards für die Kompetenzbereiche im Fach Deutsch"@de;
+	dc:description "Bildungsstandards Deutsch HSA 2004 - Standards für die Kompetenzbereiche im Fach Deutsch"@de;
 	skos:hasTopConcept
 		n1:e2s,
 		n1:h2t,

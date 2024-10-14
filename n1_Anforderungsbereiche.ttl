@@ -335,7 +335,7 @@ n1:b2y
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
-	dct:title "Bildungsstandards Deutsch ESA 2004 - Anforderungsbereiche"@de;
+	dct:title "Bildungsstandards Deutsch HSA 2004 - Anforderungsbereiche"@de;
 	dct:description "Die folgenden drei Anforderungsbereiche lassen sich unterscheiden und beschreiben:"@de;
 	skos:hasTopConcept
 		n1:s7e,

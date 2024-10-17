@@ -1,145 +1,146 @@
 "notation","title","description","id","title_en","description_en"
-"1","Sprechen und Zuhören","","e2s",,
-"1.1","zu anderen sprechen","","u5b",,
-"1.1.1","sich artikuliert und verständlich in der Standardsprache äußern,","","q4f",,
-"1.1.2","über einen für die Bewältigung schulischer, beruflicher und gesellschaftlicher Sprechsituationen angemessenen Wortschatz verfügen,","","h3s",,
-"1.1.3","sich in unterschiedlichen Sprechsituationen sach- und situationsgerecht verhalten: Vorstellungsgespräch/Bewerbungsgespräch, Antragstellung, Bitte, Aufforderung, Beschwerde, Entschuldigung, Dank,","","e4c",,
-"1.1.4","verschiedene Formen mündlicher Darstellung unterscheiden und anwenden: erzählen, berichten, informieren, beschreiben, appellieren, argumentieren,","","d4a",,
-"1.1.5","Wirkungen der Redeweise kennen und beachten: Lautstärke, Betonung, Sprechtempo, Stimmführung, Körpersprache (Gestik/Mimik).","","e5s",,
-"1.2","vor anderen sprechen","","v5y",,
-"1.2.1","Texte sinngebend und gestaltend vorlesen und (frei) vortragen,","","x4y",,
-"1.2.2","freie Redebeiträge leisten,","","d6a",,
-"1.2.3","Kurzvorträge/Referate mit Hilfe eines Stichwortzettels/einer Gliederung halten: z.B. von einem Praktikum berichten, über einen Arbeitsplatz informieren, ein Buch/einen Film vorstellen,","","y4x",,
-"1.2.4","verschiedene Medien für die Darstellung von Sachverhalten nutzen(Präsentationstechniken).","","q3p",,
-"1.3","mit anderen sprechen","","a3y",,
-"1.3.1","sich konstruktiv an einem Gespräch beteiligen,","","d5r",,
-"1.3.2","durch gezieltes Fragen notwendige Informationen beschaffen,","","z2p",,
-"1.3.3","Gesprächsregeln einhalten,","","h7s",,
-"1.3.4","die eigene Meinung begründet vertreten,","","x3b",,
-"1.3.5","auf Gesprächsbeiträge sachlich und argumentierend eingehen,","","a9x",,
-"1.3.6","das eigene Gesprächsverhalten und das anderer kriterienorientiert beobachten und bewerten.","","b9x",,
-"1.4","verstehend zuhören","","f3z",,
-"1.4.1","Gesprächsbeiträge anderer verfolgen und aufnehmen,","","t6g",,
-"1.4.2","wesentliche Informationen verstehen, wiedergeben und kritisch hinterfragen,","","r2z",,
-"1.4.3","Aufmerksamkeit für verbale und nonverbale Äußerungen (z.B. Stimmführung, Körpersprache) entwickeln.","","t2b",,
-"1.5","szenisch spielen","","u5s",,
-"1.5.1","eigene Erlebnisse, Haltungen, Situationen szenisch darstellen,","","x5h",,
-"1.5.2","Texte (medial unterschiedlich vermittelt) szenisch gestalten.","","q5r",,
-"1.6","Methoden und Arbeitstechniken","","b2x",,
-"1.6.1","verschiedene Gesprächsformen praktizieren: z.B. Diskussion, Streitgespräch, Arbeitsgespräch,","","r5r",,
-"1.6.2","Redestrategien einsetzen: z.B. Anknüpfungen formulieren,","","t6f",,
-"1.6.3","Wesentliches notieren,","","z7e",,
-"1.6.4","Notizen ordnen und zur Weiterarbeit nutzen,","","x6h",,
-"1.6.5","Präsentationstechniken kennen und nutzen: z. B. Tafel, Plakat, Folie","","a9z",,
-"1.6.6","Video-Feedback nutzen,","","q2u",,
-"1.6.7","Portfolio (Sammlung und Vereinbarungen über Gesprächsregeln, Kriterienlisten, Stichwortkonzepte, Selbsteinschätzungen, Beobachtungsbögen von anderen, vereinbarte Lernziele etc.) nutzen.","","f9a",,
-"2","Schreiben","","h2t",,
-"2.1","über Schreibfertigkeiten verfügen","","f3y",,
-"2.1.1","Texte in gut lesbarer handschriftlicher Form und in einem der Situation entsprechenden Tempo schreiben,","","z4h",,
-"2.1.2","Texte dem Zweck entsprechend und adressatengerecht gestalten, sinnvoll aufbauen und strukturieren: z.B. Blattaufteilung, Rand, Absätze,","","c2f",,
-"2.1.3","Textverarbeitungsprogramme und ihre Möglichkeiten nutzen: z.B. Formatierung, Präsentation,","","y9u",,
-"2.1.4","Formulare ausfüllen.","","r5q",,
-"2.2","richtig schreiben","","c4a",,
-"2.2.1","Grundregeln der Rechtschreibung und Zeichensetzung kennen und anwenden,","","x9h",,
-"2.2.2","häufig vorkommende Wörter – auch wichtige Fachbegriffe und Fremdwörter - richtig schreiben,","","h2y",,
-"2.2.3","individuelle Fehlerschwerpunkte erkennen und Fehler durch Anwendung von Rechtschreibstrategien vermeiden: z.B. Ableiten, Wortverwandtschaften suchen, grammatisches Wissen nutzen.","","e7z",,
-"2.3","einen Schreibprozess eigenverantwortlich gestalten","","q3x",,
-"2.3.1","Texte planen und entwerfen","","u4u",,
-"2.3.1.1","den Schreibauftrag verstehen,","","x5e",,
-"2.3.1.2","einen Schreibplan entwickeln,","","a5u",,
-"2.3.1.3","Informationsquellen nutzen: z.B. Bibliotheken, Nachschlagewerke, Zeitungen, Internet,","","c9h",,
-"2.3.1.4","Stoffsammlung erstellen, Informationen ordnen: z.B. Mindmap.","","c2a",,
-"2.3.2","Texte schreiben","","y3r",,
-"2.3.2.1","gedanklich geordnet schreiben,","","p7g",,
-"2.3.2.2","formalisierte lineare Texte/nichtlineare Texte verfassen: z.B. sachlicher Brief, Lebenslauf, Bewerbungsschreiben, Ausfüllen von Formularen, Schaubild, Diagramm, Tabelle,","","r6h",,
-"2.3.2.3","grundlegende Schreibfunktionen umsetzen: erzählen, berichten, informieren, beschreiben, appellieren, argumentieren,","","v2z",,
-"2.3.2.4","produktive Schreibformen nutzen: z.B. umschreiben, weiterschreiben, ausgestalten,","","b5a",,
-"2.3.2.5","kreative Schreibformen nutzen: z.B. Figurengeschichten, Verwandlungsgeschichten, Schreiben zu Bildern,","","e6a",,
-"2.3.2.6","Inhalte verkürzt wiedergeben,","","a9c",,
-"2.3.2.7","wesentliche Informationen aus linearen und nichtlinearen Texten zusammenfassen,","","a7x",,
-"2.3.2.8","wesentliche Gestaltungsmittel untersuchen und darstellen,","","x9b",,
-"2.3.2.9","Argumente finden und formulieren,","","x4b",,
-"2.3.2.10","Argumente gewichten und Schlüsse ziehen,","","t5a",,
-"2.3.2.11","begründet Stellung beziehen,","","t3x",,
-"2.3.2.12","Texte sprachlich gestalten: strukturiert, verständlich und zusammenhängend schreiben,","","h2a",,
-"2.3.2.13","Texte mit Hilfe von neuen Medien verfassen: z. B. Textverarbeitungs- und Mailprogramme.","","s7x",,
-"2.3.3","Texte überarbeiten","","a2c",,
-"2.3.3.1","eigene und fremde Texte hinsichtlich Aufbau, Inhalt und Formulierungen revidieren,","","y7s",,
-"2.3.3.2","Verfahren zur Überprüfung der sprachlichen Richtigkeit kennen und nutzen.","","g4p",,
-"2.4","Methoden und Arbeitstechniken","","g9b",,
-"2.4.1","Notizen machen, Stichpunkte sammeln und ordnen,","","s4b",,
-"2.4.2","Arbeitsschritte festlegen,","","g7g",,
-"2.4.3","Texte formal gestalten/überarbeiten: z.B. Blattaufteilung, Rand, Absätze, Schriftbild,","","a4g",,
-"2.4.4","Texte optisch gestalten,","","f4e",,
-"2.4.5","unterschiedliche Informationsquellen nutzen,","","x5u",,
-"2.4.6","mit Textverarbeitungs- und Mailprogrammen umgehen,","","s7z",,
-"2.4.7","Schreibkonferenzen durchführen,","","y3p",,
-"2.4.8","Wörterbücher und Nachschlagewerke nutzen,","","f7v",,
-"2.4.9","zentrale Arbeitstechniken kennen und selbstständig anwenden: Abschreiben (von Texten), Aufschreiben, Nachschlagen,","","f7t",,
-"2.4.10","Portfolio (selbst verfasste und für gut befundene Texte, Kriterienlisten, Stichwortkonzepte, Selbsteinschätzungen, Beobachtungsbögen von anderen, vereinbarte Lernziele etc.) anlegen und nutzen.","","f6z",,
-"3","Lesen – mit Texten und Medien umgehen","","t3r",,
-"3.1","Texte verstehen und nutzen","","g7a",,
-"3.1.1","Lesetechniken und Strategien zum Leseverstehen kennen und anwenden,","","c9y",,
-"3.1.2","über grundlegende Lesefertigkeiten verfügen: flüssig, sinnbezogen, überfliegend, selektiv,","","t5y",,
-"3.1.3","die eigenen Leseziele kennen,","","d9x",,
-"3.1.4","Vorwissen und neue Informationen unterscheiden,","","b4r",,
-"3.1.5","Wortbedeutungen klären,","","r9p",,
-"3.1.6","Lesehilfen nutzen: z.B. Textsorte, Aufbau, Überschrift, Illustration, Layout,","","s6y",,
-"3.1.7","Verfahren zur Textstrukturierung kennen und nutzen: Inhalte zusammenfassen, Zwischenüberschriften formulieren, wesentliche Textstellen kennzeichnen, Bezüge zwischen Textstellen herstellen, Fragen aus dem Text ableiten und beantworten,","","g9d",,
-"3.1.8","Verfahren zur Textaufnahme kennen und nutzen: Aussagen erklären, Stichwörter formulieren, Texte und Textabschnitte zusammenfassen.","","y5s",,
-"3.2","Literarische Texte verstehen und nutzen","","y2z",,
-"3.2.1","aktuelle und klassische Werke der Jugendliteratur und altersangemessene Texte bedeutender Autorinnen und Autoren kennen,","","s7b",,
-"3.2.2","epische, lyrische, dramatische Texte unterscheiden und wesentliche Merkmale kennen, insbesondere epische Kleinformen, Erzählung, Kurzgeschichte, Gedichte,","","g2a",,
-"3.2.3","an einem repräsentativen Beispiel Zusammenhänge zwischen Text, Entstehungszeit und Leben des Autors/der Autorin herstellen,","","r3x",,
-"3.2.4","zentrale Aussagen erschließen,","","g4b",,
-"3.2.5","wesentliche Elemente eines Textes erfassen: Figuren, Raum- und Zeitdarstellung, Konfliktverlauf,","","y3v",,
-"3.2.6","Handlung und Verhaltensweisen beschreiben und werten,","","x7y",,
-"3.2.7","wesentliche Fachbegriffe zur Erschließung von Literatur kennen und anwenden: Autor, Erzähler, Monolog, Dialog, Reim,","","u3g",,
-"3.2.8","grundlegende Gestaltungsmittel erkennen und ihre Wirkungen einschätzen: z.B. Wortwahl, Wiederholung, sprachliche Bilder,","","d4e",,
-"3.2.9","untersuchende und produktive Methoden kennen und anwenden: z.B. Texte vergleichen, weiterschreiben, Paralleltext verfassen, szenische Umsetzung,","","a7v",,
-"3.2.10","eigene Deutungen des Textes entwickeln, mit anderen darüber sprechen und am Text belegen.","","x2e",,
-"3.3","Sach- und Gebrauchstexte verstehen und nutzen","","z4p",,
-"3.3.1","verschiedene Textfunktionen und Textsorten unterscheiden: informieren (z.B. Lexikontext), appellieren (z.B. Werbetext), regulieren (z.B. Jugendschutzgesetz, Arbeitsvertrag), instruieren (z.B. Bedienungsanleitung),","","q4q",,
-"3.3.2","Informationen zielgerichtet entnehmen, ordnen, prüfen und ergänzen,","","p5t",,
-"3.3.3","nichtlineare Texte (auch im Zusammenhang mit linearen Texten) auswerten: z.B. Schaubilder,","","a7s",,
-"3.3.4","Intention(en) eines Textes erkennen,","","v2h",,
-"3.3.5","aus Sach- und Gebrauchstexten begründete Schlussfolgerungen ziehen,","","s3h",,
-"3.3.6","Information und Wertung in Texten unterscheiden: z.B. in Zeitungen.","","g7c",,
-"3.4","Medien verstehen und nutzen","","r6g",,
-"3.4.1","Informations- und Unterhaltungsfunktion unterscheiden: z.B. im Internet,","","x9g",,
-"3.4.2","wesentliche Darstellungsmittel eines Mediums und deren Wirkungen kennen und einschätzen,","","q5y",,
-"3.4.3","Intentionen und Wirkungen ausgewählter Medieninhalte erkennen und bewerten: z. B. Fernsehserie,","","t4a",,
-"3.4.4","Lebenswirklichkeit von Realitätsdarstellungen und der Darstellung fiktionaler Welten in Medien unterscheiden,","","a4v",,
-"3.4.5","Informationen zu einem Thema/Problem in unterschiedlichen Medien suchen, vergleichen, auswählen und bewerten,","","s4h",,
-"3.4.6","Medien für die eigene Produktion kreativ nutzen.","","a7h",,
-"3.5","Methoden und Arbeitstechniken","","d3y",,
-"3.5.1","mit Nachschlagewerken umgehen können,","","a2d",,
-"3.5.2","recherchieren,","","s4v",,
-"3.5.3","zitieren, Quellen angeben,","","z3q",,
-"3.5.4","Wesentliches markieren,","","y7c",,
-"3.5.5","Stichwörter formulieren,","","c2h",,
-"3.5.6","Texte gliedern und Teilüberschriften finden,","","r4x",,
-"3.5.7","Inhalte mit eigenen Worten zusammenfassend wiedergeben,","","q5u",,
-"3.5.8","Arbeitsergebnisse zielgerichtet und sachbezogen präsentieren z.B. mit Folie, Plakat, PC.","","c6t",,
-"4","Sprache und Sprachgebrauch untersuchen","","e4t",,
-"4.1","Äußerungen/Texte in Verwendungszusammenhängen reflektieren und bewusst gestalten","","y5h",,
-"4.1.1","beim Sprachhandeln die Inhalts- und Beziehungsebene unterscheiden,","","q4c",,
-"4.1.2","Bedingungen und Regeln für kommunikative Situationen im Alltag kennen,","","z7c",,
-"4.1.3","grundlegende Textfunktionen erfassen: Information (z.B. Zeitungsmeldung), Appell (z.B. Werbeanzeige), Kontakt (z.B. Bewerbung, Beschwerde); ästhetische Funktion (z.B. Gedicht),","","t7p",,
-"4.1.4","„Sprachen in der Sprache“ kennen und in ihrer Funktion unterscheiden: Standardsprache, Umgangssprache; Dialekt; Gruppensprachen, Fachsprachen; gesprochene und geschriebene Sprache,","","g5s",,
-"4.1.5","Sprechweisen unterscheiden und ihre Wirkung einschätzen: z.B. abwertend, gehoben,","","u7d",,
-"4.1.6","ausgewählte Beispiele fremdsprachlicher Einflüsse kennen und bewerten,","","y9b",,
-"4.1.7","Unterschiede und Gemeinsamkeiten verschiedener Sprachen wahrnehmen.","","y9g",,
-"4.2","Textbeschaffenheit analysieren und reflektieren","","x5c",,
-"4.2.1","sprachliche Mittel zur Sicherung des Textzusammenhanges kennen und anwenden:","","p6p",,
-"4.2.1.1","Wortebene (morphologische Mittel): Beziehungswörter (z.B. Konjunktion, Adverb, Pronomen),","","s3g",,
-"4.2.1.2","Satzebene (syntaktische Mittel): Satzarten; Satzreihe, Satzgefüge,","","g4r",,
-"4.2.1.3","Bedeutungsebene (semantische Mittel): Synonyme; Schlüsselwörter; Oberbegriff/Unterbegriff,","","z5d",,
-"4.2.2","Leistungen von Sätzen und Wortarten kennen und für Sprechen und Schreiben nutzen:","","d5e",,
-"4.2.2.1","Satzstrukturen kennen und funktional verwenden: Hauptsatz, Nebensatz/Gliedsatz, Satzglied, Satzgliedteil,","","p4s",,
-"4.2.2.2","Wortarten kennen und funktional gebrauchen: z.B. Verb: Zeitlichkeit; Substantiv/Nomen: Benennung; Adjektiv: Qualität,","","v3v",,
-"4.2.2.3","grammatische Kategorien in situativen und funktionalen Zusammenhängen verwenden: z.B. Tempus, Aktiv/Passiv; Genus, Numerus, Kasus; Steigerung,","","q4u",,
-"4.2.3","grundlegende Regeln der Orthografie und Zeichensetzung kennen und beim Sprachhandeln anwenden.","","b4h",,
-"4.3","Methoden und Arbeitstechniken","","f4q",,
-"4.3.1","die Klang-, Weglass-, Umstell-, Ersatzprobe anwenden,","","b9d",,
-"4.3.2","Verfahren der Fehlerkontrolle: z.B. Nachschlagetechniken, gliederndes Mitsprechen.","","p6y",,
+"1","Sprechen und Zuhören","","e2s","",""
+"1.1","zu anderen sprechen","","u5b","",""
+"1.1.1","sich artikuliert und verständlich in der Standardsprache äußern,","","q4f","",""
+"1.1.2","über einen für die Bewältigung schulischer, beruflicher und gesellschaftlicher Sprechsituationen angemessenen Wortschatz verfügen,","","h3s","",""
+"1.1.3","sich in unterschiedlichen Sprechsituationen sach- und situationsgerecht verhalten: Vorstellungsgespräch/Bewerbungsgespräch, Antragstellung, Bitte, Aufforderung, Beschwerde, Entschuldigung, Dank,","","e4c","",""
+"1.1.4","verschiedene Formen mündlicher Darstellung unterscheiden und anwenden: erzählen, berichten, informieren, beschreiben, appellieren, argumentieren,","","d4a","",""
+"1.1.5","Wirkungen der Redeweise kennen und beachten: Lautstärke, Betonung, Sprechtempo, Stimmführung, Körpersprache (Gestik/Mimik).","","e5s","",""
+"1.2","vor anderen sprechen","","v5y","",""
+"1.2.1","Texte sinngebend und gestaltend vorlesen und (frei) vortragen,","","x4y","",""
+"1.2.2","freie Redebeiträge leisten,","","d6a","",""
+"1.2.3","Kurzvorträge/Referate mit Hilfe eines Stichwortzettels/einer Gliederung halten: z.B. von einem Praktikum berichten, über einen Arbeitsplatz informieren, ein Buch/einen Film vorstellen,","","y4x","",""
+"1.2.4","verschiedene Medien für die Darstellung von Sachverhalten nutzen(Präsentationstechniken).","","q3p","",""
+"1.3","mit anderen sprechen","","a3y","",""
+"1.3.1","sich konstruktiv an einem Gespräch beteiligen,","","d5r","",""
+"1.3.2","durch gezieltes Fragen notwendige Informationen beschaffen,","","z2p","",""
+"1.3.3","Gesprächsregeln einhalten,","","h7s","",""
+"1.3.4","die eigene Meinung begründet vertreten,","","x3b","",""
+"1.3.5","auf Gesprächsbeiträge sachlich und argumentierend eingehen,","","a9x","",""
+"1.3.6","das eigene Gesprächsverhalten und das anderer kriterienorientiert beobachten und bewerten.","","b9x","",""
+"1.4","verstehend zuhören","","f3z","",""
+"1.4.1","Gesprächsbeiträge anderer verfolgen und aufnehmen,","","t6g","",""
+"1.4.2","wesentliche Informationen verstehen, wiedergeben und kritisch hinterfragen,","","r2z","",""
+"1.4.3","Aufmerksamkeit für verbale und nonverbale Äußerungen (z.B. Stimmführung, Körpersprache) entwickeln.","","t2b","",""
+"1.5","szenisch spielen","","u5s","",""
+"1.5.1","eigene Erlebnisse, Haltungen, Situationen szenisch darstellen,","","x5h","",""
+"1.5.2","Texte (medial unterschiedlich vermittelt) szenisch gestalten.","","q5r","",""
+"1.6","Methoden und Arbeitstechniken","","b2x","",""
+"1.6.1","verschiedene Gesprächsformen praktizieren: z.B. Diskussion, Streitgespräch, Arbeitsgespräch,","","r5r","",""
+"1.6.2","Redestrategien einsetzen: z.B. Anknüpfungen formulieren,","","t6f","",""
+"1.6.3","Wesentliches notieren,","","z7e","",""
+"1.6.4","Notizen ordnen und zur Weiterarbeit nutzen,","","x6h","",""
+"1.6.5","Präsentationstechniken kennen und nutzen: z. B. Tafel, Plakat, Folie","","a9z","",""
+"1.6.6","Video-Feedback nutzen,","","q2u","",""
+"1.6.7","Portfolio (Sammlung und Vereinbarungen über Gesprächsregeln, Kriterienlisten, Stichwortkonzepte, Selbsteinschätzungen, Beobachtungsbögen von anderen, vereinbarte Lernziele etc.) nutzen.","","f9a","",""
+"2","Schreiben","","h2t","",""
+"2.1","über Schreibfertigkeiten verfügen","","f3y","",""
+"2.1.1","Texte in gut lesbarer handschriftlicher Form und in einem der Situation entsprechenden Tempo schreiben,","","z4h","",""
+"2.1.2","Texte dem Zweck entsprechend und adressatengerecht gestalten, sinnvoll aufbauen und strukturieren: z.B. Blattaufteilung, Rand, Absätze,","","c2f","",""
+"2.1.3","Textverarbeitungsprogramme und ihre Möglichkeiten nutzen: z.B. Formatierung, Präsentation,","","y9u","",""
+"2.1.4","Formulare ausfüllen.","","r5q","",""
+"2.2","richtig schreiben","","c4a","",""
+"2.2.1","Grundregeln der Rechtschreibung und Zeichensetzung kennen und anwenden,","","x9h","",""
+"2.2.2","häufig vorkommende Wörter – auch wichtige Fachbegriffe und Fremdwörter - richtig schreiben,","","h2y","",""
+"2.2.3","individuelle Fehlerschwerpunkte erkennen und Fehler durch Anwendung von Rechtschreibstrategien vermeiden: z.B. Ableiten, Wortverwandtschaften suchen, grammatisches Wissen nutzen.","","e7z","",""
+"2.3","einen Schreibprozess eigenverantwortlich gestalten","","q3x","",""
+"2.3.1","Texte planen und entwerfen","","u4u","",""
+"2.3.1.1","den Schreibauftrag verstehen,","","x5e","",""
+"2.3.1.2","einen Schreibplan entwickeln,","","a5u","",""
+"2.3.1.3","Informationsquellen nutzen: z.B. Bibliotheken, Nachschlagewerke, Zeitungen, Internet,","","c9h","",""
+"2.3.1.4","Stoffsammlung erstellen, Informationen ordnen: z.B. Mindmap.","","c2a","",""
+"2.3.2","Texte schreiben","","y3r","",""
+"2.3.2.1","gedanklich geordnet schreiben,","","p7g","",""
+"2.3.2.2","formalisierte lineare Texte/nichtlineare Texte verfassen: z.B. sachlicher Brief, Lebenslauf, Bewerbungsschreiben, Ausfüllen von Formularen, Schaubild, Diagramm, Tabelle,","","r6h","",""
+"2.3.2.3","grundlegende Schreibfunktionen umsetzen: erzählen, berichten, informieren, beschreiben, appellieren, argumentieren,","","v2z","",""
+"2.3.2.4","produktive Schreibformen nutzen: z.B. umschreiben, weiterschreiben, ausgestalten,","","b5a","",""
+"2.3.2.5","kreative Schreibformen nutzen: z.B. Figurengeschichten, Verwandlungsgeschichten, Schreiben zu Bildern,","","e6a","",""
+"2.3.2.6","Inhalte verkürzt wiedergeben,","","a9c","",""
+"2.3.2.7","wesentliche Informationen aus linearen und nichtlinearen Texten zusammenfassen,","","a7x","",""
+"2.3.2.8","wesentliche Gestaltungsmittel untersuchen und darstellen,","","x9b","",""
+"2.3.2.9","Argumente finden und formulieren,","","x4b","",""
+"2.3.2.10","Argumente gewichten und Schlüsse ziehen,","","t5a","",""
+"2.3.2.11","begründet Stellung beziehen,","","t3x","",""
+"2.3.2.12","Texte sprachlich gestalten: strukturiert, verständlich und zusammenhängend schreiben,","","h2a","",""
+"2.3.2.13","Texte mit Hilfe von neuen Medien verfassen: z. B. Textverarbeitungs- und Mailprogramme.","","s7x","",""
+"2.3.3","Texte überarbeiten","","a2c","",""
+"2.3.3.1","eigene und fremde Texte hinsichtlich Aufbau, Inhalt und Formulierungen revidieren,","","y7s","",""
+"2.3.3.2","Verfahren zur Überprüfung der sprachlichen Richtigkeit kennen und nutzen.","","g4p","",""
+"2.4","Methoden und Arbeitstechniken","","g9b","",""
+"2.4.1","Notizen machen, Stichpunkte sammeln und ordnen,","","s4b","",""
+"2.4.2","Arbeitsschritte festlegen,","","g7g","",""
+"2.4.3","Texte formal gestalten/überarbeiten: z.B. Blattaufteilung, Rand, Absätze, Schriftbild,","","a4g","",""
+"2.4.4","Texte optisch gestalten,","","f4e","",""
+"2.4.5","unterschiedliche Informationsquellen nutzen,","","x5u","",""
+"2.4.6","mit Textverarbeitungs- und Mailprogrammen umgehen,","","s7z","",""
+"2.4.7","Schreibkonferenzen durchführen,","","y3p","",""
+"2.4.8","Wörterbücher und Nachschlagewerke nutzen,","","f7v","",""
+"2.4.9","zentrale Arbeitstechniken kennen und selbstständig anwenden: Abschreiben (von Texten), Aufschreiben, Nachschlagen,","","f7t","",""
+"2.4.10","Portfolio (selbst verfasste und für gut befundene Texte, Kriterienlisten, Stichwortkonzepte, Selbsteinschätzungen, Beobachtungsbögen von anderen, vereinbarte Lernziele etc.) anlegen und nutzen.","","f6z","",""
+"3","Lesen – mit Texten und Medien umgehen","","t3r","",""
+"3.1","Texte verstehen und nutzen","","g7a","",""
+"3.1.1","Lesetechniken und Strategien zum Leseverstehen kennen und anwenden,","","c9y","",""
+"3.1.2","über grundlegende Lesefertigkeiten verfügen: flüssig, sinnbezogen, überfliegend, selektiv,","","t5y","",""
+"3.1.3","die eigenen Leseziele kennen,","","d9x","",""
+"3.1.4","Vorwissen und neue Informationen unterscheiden,","","b4r","",""
+"3.1.5","Wortbedeutungen klären,","","r9p","",""
+"3.1.6","Lesehilfen nutzen: z.B. Textsorte, Aufbau, Überschrift, Illustration, Layout,","","s6y","",""
+"3.1.7","Verfahren zur Textstrukturierung kennen und nutzen: Inhalte zusammenfassen, Zwischenüberschriften formulieren, wesentliche Textstellen kennzeichnen, Bezüge zwischen Textstellen herstellen, Fragen aus dem Text ableiten und beantworten,","","g9d","",""
+"3.1.8","Verfahren zur Textaufnahme kennen und nutzen: Aussagen erklären, Stichwörter formulieren, Texte und Textabschnitte zusammenfassen.","","y5s","",""
+"3.2","Texte verstehen und nutzen","","u4d","",""
+"3.2.1","Literarische Texte verstehen und nutzen","","y2z","",""
+"3.2.1.1","aktuelle und klassische Werke der Jugendliteratur und altersangemessene Texte bedeutender Autorinnen und Autoren kennen,","","s7b","",""
+"3.2.1.2","epische, lyrische, dramatische Texte unterscheiden und wesentliche Merkmale kennen, insbesondere epische Kleinformen, Erzählung, Kurzgeschichte, Gedichte,","","g2a","",""
+"3.2.1.3","an einem repräsentativen Beispiel Zusammenhänge zwischen Text, Entstehungszeit und Leben des Autors/der Autorin herstellen,","","r3x","",""
+"3.2.1.4","zentrale Aussagen erschließen,","","g4b","",""
+"3.2.1.5","wesentliche Elemente eines Textes erfassen: Figuren, Raum- und Zeitdarstellung, Konfliktverlauf,","","y3v","",""
+"3.2.1.6","Handlung und Verhaltensweisen beschreiben und werten,","","x7y","",""
+"3.2.1.7","wesentliche Fachbegriffe zur Erschließung von Literatur kennen und anwenden: Autor, Erzähler, Monolog, Dialog, Reim,","","u3g","",""
+"3.2.1.8","grundlegende Gestaltungsmittel erkennen und ihre Wirkungen einschätzen: z.B. Wortwahl, Wiederholung, sprachliche Bilder,","","d4e","",""
+"3.2.1.9","untersuchende und produktive Methoden kennen und anwenden: z.B. Texte vergleichen, weiterschreiben, Paralleltext verfassen, szenische Umsetzung,","","a7v","",""
+"3.2.1.10","eigene Deutungen des Textes entwickeln, mit anderen darüber sprechen und am Text belegen.","","x2e","",""
+"3.2.2","Sach- und Gebrauchstexte verstehen und nutzen","","z4p","",""
+"3.2.2.1","verschiedene Textfunktionen und Textsorten unterscheiden: informieren (z.B. Lexikontext), appellieren (z.B. Werbetext), regulieren (z.B. Jugendschutzgesetz, Arbeitsvertrag), instruieren (z.B. Bedienungsanleitung),","","q4q","",""
+"3.2.2.2","Informationen zielgerichtet entnehmen, ordnen, prüfen und ergänzen,","","p5t","",""
+"3.2.2.3","nichtlineare Texte (auch im Zusammenhang mit linearen Texten) auswerten: z.B. Schaubilder,","","a7s","",""
+"3.2.2.4","Intention(en) eines Textes erkennen,","","v2h","",""
+"3.2.2.5","aus Sach- und Gebrauchstexten begründete Schlussfolgerungen ziehen,","","s3h","",""
+"3.2.2.6","Information und Wertung in Texten unterscheiden: z.B. in Zeitungen.","","g7c","",""
+"3.2.3","Medien verstehen und nutzen","","r6g","",""
+"3.2.3.1","Informations- und Unterhaltungsfunktion unterscheiden: z.B. im Internet,","","x9g","",""
+"3.2.3.2","wesentliche Darstellungsmittel eines Mediums und deren Wirkungen kennen und einschätzen,","","q5y","",""
+"3.2.3.3","Intentionen und Wirkungen ausgewählter Medieninhalte erkennen und bewerten: z. B. Fernsehserie,","","t4a","",""
+"3.2.3.4","Lebenswirklichkeit von Realitätsdarstellungen und der Darstellung fiktionaler Welten in Medien unterscheiden,","","a4v","",""
+"3.2.3.5","Informationen zu einem Thema/Problem in unterschiedlichen Medien suchen, vergleichen, auswählen und bewerten,","","s4h","",""
+"3.2.3.6","Medien für die eigene Produktion kreativ nutzen.","","a7h","",""
+"3.3","Methoden und Arbeitstechniken","","d3y","",""
+"3.3.1","mit Nachschlagewerken umgehen können,","","a2d","",""
+"3.3.2","recherchieren,","","s4v","",""
+"3.3.3","zitieren, Quellen angeben,","","z3q","",""
+"3.3.4","Wesentliches markieren,","","y7c","",""
+"3.3.5","Stichwörter formulieren,","","c2h","",""
+"3.3.6","Texte gliedern und Teilüberschriften finden,","","r4x","",""
+"3.3.7","Inhalte mit eigenen Worten zusammenfassend wiedergeben,","","q5u","",""
+"3.3.8","Arbeitsergebnisse zielgerichtet und sachbezogen präsentieren z.B. mit Folie, Plakat, PC.","","c6t","",""
+"4","Sprache und Sprachgebrauch untersuchen","","e4t","",""
+"4.1","Äußerungen/Texte in Verwendungszusammenhängen reflektieren und bewusst gestalten","","y5h","",""
+"4.1.1","beim Sprachhandeln die Inhalts- und Beziehungsebene unterscheiden,","","q4c","",""
+"4.1.2","Bedingungen und Regeln für kommunikative Situationen im Alltag kennen,","","z7c","",""
+"4.1.3","grundlegende Textfunktionen erfassen: Information (z.B. Zeitungsmeldung), Appell (z.B. Werbeanzeige), Kontakt (z.B. Bewerbung, Beschwerde); ästhetische Funktion (z.B. Gedicht),","","t7p","",""
+"4.1.4","„Sprachen in der Sprache“ kennen und in ihrer Funktion unterscheiden: Standardsprache, Umgangssprache; Dialekt; Gruppensprachen, Fachsprachen; gesprochene und geschriebene Sprache,","","g5s","",""
+"4.1.5","Sprechweisen unterscheiden und ihre Wirkung einschätzen: z.B. abwertend, gehoben,","","u7d","",""
+"4.1.6","ausgewählte Beispiele fremdsprachlicher Einflüsse kennen und bewerten,","","y9b","",""
+"4.1.7","Unterschiede und Gemeinsamkeiten verschiedener Sprachen wahrnehmen.","","y9g","",""
+"4.2","Textbeschaffenheit analysieren und reflektieren","","x5c","",""
+"4.2.1","sprachliche Mittel zur Sicherung des Textzusammenhanges kennen und anwenden:","","p6p","",""
+"4.2.1.1","Wortebene (morphologische Mittel): Beziehungswörter (z.B. Konjunktion, Adverb, Pronomen),","","s3g","",""
+"4.2.1.2","Satzebene (syntaktische Mittel): Satzarten; Satzreihe, Satzgefüge,","","g4r","",""
+"4.2.1.3","Bedeutungsebene (semantische Mittel): Synonyme; Schlüsselwörter; Oberbegriff/Unterbegriff,","","z5d","",""
+"4.2.2","Leistungen von Sätzen und Wortarten kennen und für Sprechen und Schreiben nutzen:","","d5e","",""
+"4.2.2.1","Satzstrukturen kennen und funktional verwenden: Hauptsatz, Nebensatz/Gliedsatz, Satzglied, Satzgliedteil,","","p4s","",""
+"4.2.2.2","Wortarten kennen und funktional gebrauchen: z.B. Verb: Zeitlichkeit; Substantiv/Nomen: Benennung; Adjektiv: Qualität,","","v3v","",""
+"4.2.2.3","grammatische Kategorien in situativen und funktionalen Zusammenhängen verwenden: z.B. Tempus, Aktiv/Passiv; Genus, Numerus, Kasus; Steigerung,","","q4u","",""
+"4.2.3","grundlegende Regeln der Orthografie und Zeichensetzung kennen und beim Sprachhandeln anwenden.","","b4h","",""
+"4.3","Methoden und Arbeitstechniken","","f4q","",""
+"4.3.1","die Klang-, Weglass-, Umstell-, Ersatzprobe anwenden,","","b9d","",""
+"4.3.2","Verfahren der Fehlerkontrolle: z.B. Nachschlagetechniken, gliederndes Mitsprechen.","","p6y","",""
